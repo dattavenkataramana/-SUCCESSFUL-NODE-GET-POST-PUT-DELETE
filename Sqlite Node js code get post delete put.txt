@@ -1,0 +1,5 @@
+-- database: c:\Users\91939\OneDrive\Desktop\node js project from new\sqlite.db
+
+-- Use the ▷ button in the top right corner to run the entire file.
+
+SELECT * FROM ;
